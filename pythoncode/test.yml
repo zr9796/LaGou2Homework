@@ -1,0 +1,11 @@
+-
+  name: 'Tom'
+  color: 'white'
+  age: 3 
+  sex: 'male'
+-
+  name: 'Jerry'
+  color: 'black'
+  age: 1
+  sex: 'female'
+
