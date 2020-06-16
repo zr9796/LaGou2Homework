@@ -4,7 +4,7 @@ from cal import Calculator
 
 
 class TestCal:
-    
+
     def setup(self):
         self.cal = Calculator()
 
@@ -31,3 +31,5 @@ class TestCal:
     def test_mul(self, a, b, c):
         print(f"测试 {a} * {b} = {c}")
         assert c == self.cal.mul(a, b)
+
+    
